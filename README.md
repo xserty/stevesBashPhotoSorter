@@ -13,5 +13,7 @@ Version 0.7 is my initial release to the public.
 Any input/improvement is appreciated.
 
   WARNING: THIS SCRIPT IS VERY EXPERIMENTAL. USE WITH CARE.
+  
 Warning: always make a backup of all your pictures!
+
 Warning: use this script at your own risk!
